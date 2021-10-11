@@ -1,0 +1,27 @@
+{
+  "name": "cypress-u-creativa",
+  "version": "1.0.0",
+  "description": "U Creativa Repositorio Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinachinwo2412/cypress-u-creativa.git",
+    "cy:open": ".\\node_modules\\.bin\\cypress open"
+  },
+  "keywords": [
+    "CYPRESS"
+  ],
+  "author": "Karina Chin Wo Camacho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karinachinwo2412/cypress-u-creativa/issues"
+  },
+  "homepage": "https://github.com/karinachinwo2412/cypress-u-creativa#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^8.5.0"
+  }
+}
